@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add.png</file>
+        <file>img/back.png</file>
+        <file>img/delete.png</file>
+        <file>img/edit.png</file>
+        <file>img/login.png</file>
+        <file>img/search.png</file>
+        <file>img/del (1).png</file>
+        <file>img/new.png</file>
+        <file>img/zx.png</file>
+        <file>D:/Qt/Lab4/img/260.jpg</file>
+    </qresource>
+</RCC>
